@@ -1,3 +1,24 @@
+/* Css named colors list https://developer.mozilla.org/en-US/docs/Web/CSS/named-color */
+
 /* Need to style the html */
 /* Need to style p tags */
 /* want to add a google font possibly */
+
+body{
+    background-color: #EAF6F6;
+}
+img{
+    /* height: 200px; */
+    height: 200px;
+    /* width: 200px; */
+    width: 200px;
+}
+
+/* Border notes https://developer.mozilla.org/en-US/docs/Web/CSS/border-style */
+hr{
+    border-style: none;
+    border-bottom: dotted 5px grey;
+    background-color: white;
+    height: 2px;
+    width: 8%;
+}

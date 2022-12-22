@@ -14,6 +14,10 @@ img{
     width: 200px;
 }
 
+h1, h3 {
+    color: #66BFBF;
+}
+
 /* Border notes https://developer.mozilla.org/en-US/docs/Web/CSS/border-style */
 hr{
     border-style: none;
